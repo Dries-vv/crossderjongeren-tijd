@@ -1,1 +1,1 @@
-# crossderjongeren-tijd
+# crossderjongeren tijd meter + automatische finishlijst
